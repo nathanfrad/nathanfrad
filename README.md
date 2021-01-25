@@ -4,8 +4,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nathan-fradet)
 [![Medium Badge](https://img.shields.io/badge/Medium-Blog-informational?style=flat&logo=medium&logoColor=white&color=black)](https://nathan-fradet.medium.com/)
 
-Hey there 👋
-
 <br>
 
 ## &#x1f4c8; GitHub Stats
@@ -25,15 +23,23 @@ Hey there 👋
 
 ## 💼 Skills
 
+# :computer:
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=VueJS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+
+# :floppy_disk:
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
+# :iphone:
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=ReactNative&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
