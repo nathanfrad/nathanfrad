@@ -4,7 +4,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nathan-fradet)
 [![Medium Badge](https://img.shields.io/badge/Medium-Blog-informational?style=flat&logo=medium&logoColor=white&color=black)](https://nathan-fradet.medium.com/)
 
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -23,7 +22,7 @@
 
 ## 💼 Skills
 
-# :computer:
+#### :computer:
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=VueJS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
@@ -32,20 +31,22 @@
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Leaflet-informational?style=flat&logo=Leaflet&logoColor=white&color=4AB197)
 
-# :floppy_disk:
+#### :floppy_disk:
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-# :iphone:
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=ReactNative&logoColor=white&color=4AB197)
+#### :iphone:
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
-
+  
 <br>
-
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
@@ -53,9 +54,12 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
+<br>
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-FlexBox-informational?style=flat&logo=FlexBox&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-css-informational?style=flat&logo=css&logoColor=white&color=4AB197)
 
 <br>
-
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
