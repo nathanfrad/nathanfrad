@@ -18,7 +18,6 @@
 </a>
 
 <br>
-<br>
 
 ## 💼 Skills
 
@@ -47,7 +46,9 @@
 
 <details>
 <summary>More Skills</summary>
+  
 <br>
+
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
