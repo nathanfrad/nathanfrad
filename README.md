@@ -45,8 +45,8 @@
 
 <details>
 <summary>More Skills</summary>
-  
 <br>
+
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
@@ -55,17 +55,16 @@
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
 <br>
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-FlexBox-informational?style=flat&logo=FlexBox&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-css-informational?style=flat&logo=css&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Flexbox-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
 
 <br>
+
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
 
 </details>
 
-<br>
-
-## 📣 
